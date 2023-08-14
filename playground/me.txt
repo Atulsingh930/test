@@ -1,5 +1,0 @@
-{#user}
-Name: Atul Singh
-Skills: HTML, CSS, JS, React.js, Tailwind, Python, Java
-Email: atulsingh930193@gmail.com
-{{/user}}
